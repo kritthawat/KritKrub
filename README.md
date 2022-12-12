@@ -1,8 +1,7 @@
 # hello welcome to my proflie 🔢
 <h1 align="center">HI!! I'm KRITKRUB</h1>
-<h3 align="center">สวัดดีครับทุกคน</h3>
+<h3 align="center">สวัดดีครับทุกคนยินดีต้อนรับสู่ github ของผม :3</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
